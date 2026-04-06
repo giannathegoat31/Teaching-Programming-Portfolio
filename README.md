@@ -3,6 +3,6 @@ Hi! I am a Cognitive Science Machine Learning student at UC San Diego, creating 
 
 ---
 ## Projects 
-## Project 1: Building a House
+## Project 1: Sequences
 https://youtu.be/IXEmZ6YPwGE
 This video gives a step-by-step breakdown of how my code runs to build a house. 
