@@ -5,3 +5,4 @@ Hi! I am a UC San Diego Student creating a coding protoflio for one of my course
 ## Projects 
 ## Project 1: Building a House
 https://youtu.be/IXEmZ6YPwGE
+This video gives a step-by-step breakdown of how my code runs to build a house. 
