@@ -1,1 +1,1 @@
-# Teaching-Programming-Portfolio
+# Gianna Hester - Teaching Programming Portfolio
