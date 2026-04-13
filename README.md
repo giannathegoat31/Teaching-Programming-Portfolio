@@ -7,3 +7,5 @@ Hi! I am a Cognitive Science Machine Learning student at UC San Diego, creating 
 https://youtu.be/IXEmZ6YPwGE
 ## Project 2: Repeats
 https://youtu.be/BKDGEPVvAAo
+## Project 3: Repeats
+https://youtu.be/-dlTdE5PDi0
