@@ -13,3 +13,5 @@ https://youtu.be/-dlTdE5PDi0
 https://youtu.be/OFFchu_X9Yg
 ## Project 5: Events 
 https://youtu.be/tZfq_Kt237w
+## Project 6: Variables
+https://youtu.be/m3lt2a6aVQo
