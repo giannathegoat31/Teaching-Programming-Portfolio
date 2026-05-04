@@ -15,3 +15,5 @@ https://youtu.be/OFFchu_X9Yg
 https://youtu.be/tZfq_Kt237w
 ## Project 6: Variables
 https://youtu.be/m3lt2a6aVQo
+## Project 7: Conditional Loops
+https://youtu.be/j-e3zd3AQy0
