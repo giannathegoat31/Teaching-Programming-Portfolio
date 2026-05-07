@@ -9,7 +9,7 @@ https://youtu.be/IXEmZ6YPwGE
 https://youtu.be/BKDGEPVvAAo
 ## Project 3: Repeats
 https://youtu.be/-dlTdE5PDi0
-## Project 4: Nested repeats
+## Project 4: Nested Repeats
 https://youtu.be/OFFchu_X9Yg
 ## Project 5: Events 
 https://youtu.be/tZfq_Kt237w
@@ -17,3 +17,5 @@ https://youtu.be/tZfq_Kt237w
 https://youtu.be/m3lt2a6aVQo
 ## Project 7: Conditional Loops
 https://youtu.be/j-e3zd3AQy0
+## Project 8: If Statements
+https://youtu.be/G0lV3cDDmNg
