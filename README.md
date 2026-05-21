@@ -21,3 +21,5 @@ https://youtu.be/j-e3zd3AQy0
 https://youtu.be/G0lV3cDDmNg
 ## Project 9: Nested If Else
 https://youtu.be/OHznutmaxZ0
+## Project 10: Compound Conditionals
+https://youtu.be/IJ-ghWhBRCs
