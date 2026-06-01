@@ -25,3 +25,5 @@ https://youtu.be/OHznutmaxZ0
 https://youtu.be/IJ-ghWhBRCs
 ## Project 11: Abstraction
 https://youtu.be/fRX9aqboOu8
+## Project 12: Lists
+https://youtu.be/EIO-B6wM-SA
